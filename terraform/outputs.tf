@@ -1,5 +1,5 @@
 output "cluster_name" {
-  description = "Amazon Web Service EKS Cluster Name."
+  description = "Amazon Web Service EKS Cluster Name"
   value       = module.eks.cluster_name
 }
 
