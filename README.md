@@ -1,9 +1,11 @@
 # Terraform backend CICD AWS
-This is the terraform Repository for AWS Services running  all the backend services for the front end Application services from [Application_services_Kubernetes_project
+* This is the terraform Repository for AWS Services running  all the backend services for the front end Application services from [Application_services_Kubernetes_project
 ](https://github.com/Kais18/Application_services_Kubernetes_project) Repository, where are changes commited to this repository for any **Terraform File** will trigger the changes in the code and insfrastructure
 using **Git Actions** <br />
-Any changed done to the **main** branch will only Trigger the deploy from Git actions where in changes for the stage branch won't, this practice will avoid any mistakes during real time production <br />
-Follow uo with  [Application_services_Kubernetes_project](https://github.com/Kais18/Application_services_Kubernetes_project) for complete project.
+#####
+* Any changed done to the **main** branch will only Trigger the deploy from Git actions where in changes for the stage branch won't, this practice will avoid any mistakes during real time production <br />
+#####
+Follow up with  [Application_services_Kubernetes_project](https://github.com/Kais18/Application_services_Kubernetes_project) for complete project.
 
 ![Architecture Diagram](gitaction_dark.png)
 
