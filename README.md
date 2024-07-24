@@ -4,7 +4,7 @@
 #####
 * Any changed done to the **main** branch will only Trigger the code commit & deploy from Git actions where in changes for the stage branch won't, this practice will avoid any mistakes during real time production <br />
 #####
-Follow up with  [Application_services_Kubernetes_project](https://github.com/Kais18/Application_services_Kubernetes_project) for the front end and rest complete project.
+Follow up with  [this repository](https://github.com/Kais18/Application_services_Kubernetes_project) for the front end and rest complete project.
 
 ![Architecture Diagram](gitaction_dark.png)
 
@@ -12,6 +12,7 @@ Follow up with  [Application_services_Kubernetes_project](https://github.com/Kai
 
 - <u> Terraform <u />
 - <u> GitHub Actions <u />
+- AWS VPC ( Virtual Private Cloud )
   
 # Prerequisites
 #####
